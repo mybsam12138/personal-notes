@@ -58,6 +58,7 @@ Practical guideline:
 - Sides:
   - Short, but **no visible scalp**
   - Clean outline without sharp contrast
+  - 
 
 - Back:
   - Clean neckline
