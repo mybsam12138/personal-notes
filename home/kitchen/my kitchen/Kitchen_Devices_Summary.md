@@ -12,6 +12,7 @@ circulation. It is suitable for small household use (1--2 people).
 - **Total Capacity: 7.0L**
 - Dual-layer internal rack (upper and lower levels)
 - Suitable for medium household cooking (2–4 people)
+- 23*22cm
 
 **Practical cooking examples:**
 
